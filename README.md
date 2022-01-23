@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
 
+The README.md is the landing page for your project.it helps people understand, at glance whether your project is something that will be useful to them
 ## What it does
 
-FEATURES PLACEHOLDER
+- What the project does
+- The features and benefits of the project
+- How users can get started with the project
+- Where users can get help with your project
+- Who maintains and contributes to the project
 
 ## Getting started
 

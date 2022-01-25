@@ -35,4 +35,27 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+<details>
+<summary>Where to create your documentation</summary>
+<hr>
+
+ ### Where to create documentation
+
+ Your user documentation should be easy for your users to find. Some prefer to keep it on an externally facing website while others will use a docs folder in their project or the repository wiki.
+
+ #### Getting organized
+
+ As an open source project becomes more popular and more sophisticated, some maintainers find it is easier to move their open source project into an a GitHub organization. This allows you to create separate repositories for your project's promotional website, documentation, source code, etc.
+
+ <hr>
+ </details>
+
+### What to include
+
+Documentation needs for open source projects will vary, but at a minimum you should include:
+
+- [ ] Installation instructions
+- [ ] Completing essential tasks
+- [ ] Customizing and configuring
+
+Will you help Mona ensure the documentation covers these minimum topics?
